@@ -15,3 +15,5 @@
 ![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/involutegears.png?raw=true)
 
 ![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/animatedgears.gif?raw=true)
+
+![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/gears.gif?raw=true)
