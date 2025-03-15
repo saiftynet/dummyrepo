@@ -17,3 +17,9 @@
 ![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/animatedgears.gif?raw=true)
 
 ![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/gears.gif?raw=true)
+
+![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/helix.gif?raw=true)
+
+![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/bihelical.gif?raw=true)
+
+![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/doublehelix%20rack%20and%20gear%20(1).gif?raw=true)
