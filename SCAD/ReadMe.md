@@ -8,6 +8,8 @@
 
 ![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/pichart.png?raw=true)
 
+![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/surfaceplot.png?raw=true)
+
 ![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/cicletext.png?raw=true)
 
 ![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/box.png?raw=true)
