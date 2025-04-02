@@ -26,4 +26,4 @@
 
 ![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/doublehelix%20rack%20and%20gear%20(1).gif?raw=true)
 
-![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/helix?raw=true)
+![image](https://github.com/saiftynet/dummyrepo/blob/main/SCAD/helix.png?raw=true)
