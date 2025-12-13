@@ -1,0 +1,108 @@
+<svg width='640' height='480' xmlns='http://www.w3.org/2000/svg'>
+
+ <rect width='40' height='20' x='300' y='230' rx='4' ry='4' 
+  style='fill:red;stroke-width:1;stroke:green' />
+ <rect width='80' height='20' x='280' y='260' rx='4' ry='4' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='130' height='10' x='250' y='210' rx='3' ry='3' 
+  style='fill:white;stroke-width:1;stroke:red' />
+ <rect width='40' height='20' x='300' y='290' rx='4' ry='4' 
+  style='fill:white;stroke-width:1;stroke:violet' />
+ <rect width='110' height='20' x='180' y='230' rx='5' ry='5' 
+  style='fill:white;stroke-width:1;stroke:red' />
+ <rect width='50' height='30' x='290' y='170' rx='8' ry='8' 
+  style='fill:white;stroke-width:1;stroke:orange' />
+ <rect width='10' height='20' x='320' y='320' rx='9' ry='9' 
+  style='fill:white;stroke-width:1;stroke:orange' />
+ <rect width='100' height='10' x='190' y='290' rx='3' ry='3' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='30' height='10' x='300' y='150' rx='1' ry='1' 
+  style='fill:white;stroke-width:1;stroke:blue' />
+ <rect width='60' height='10' x='110' y='230' rx='0' ry='0' 
+  style='fill:white;stroke-width:1;stroke:violet' />
+ <rect width='110' height='20' x='350' y='230' rx='5' ry='5' 
+  style='fill:white;stroke-width:1;stroke:yellow' />
+ <rect width='80' height='30' x='160' y='190' rx='0' ry='0' 
+  style='fill:white;stroke-width:1;stroke:orange' />
+ <rect width='30' height='30' x='310' y='110' rx='8' ry='8' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='110' height='20' x='180' y='310' rx='9' ry='9' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='20' height='30' x='370' y='260' rx='8' ry='8' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='130' height='10' x='260' y='90' rx='4' ry='4' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='100' height='20' x='350' y='300' rx='4' ry='4' 
+  style='fill:white;stroke-width:1;stroke:green' />
+ <rect width='30' height='10' x='280' y='340' rx='5' ry='5' 
+  style='fill:white;stroke-width:1;stroke:blue' />
+ <rect width='110' height='20' x='160' y='340' rx='6' ry='6' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='120' height='10' x='150' y='260' rx='1' ry='1' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='70' height='30' x='340' y='330' rx='8' ry='8' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='60' height='10' x='400' y='260' rx='2' ry='2' 
+  style='fill:white;stroke-width:1;stroke:violet' />
+ <rect width='30' height='20' x='150' y='280' rx='2' ry='2' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='110' height='30' x='170' y='150' rx='1' ry='1' 
+  style='fill:white;stroke-width:1;stroke:green' />
+ <rect width='110' height='30' x='260' y='370' rx='7' ry='7' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='10' height='20' x='90' y='230' rx='3' ry='3' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='30' height='20' x='390' y='200' rx='8' ry='8' 
+  style='fill:white;stroke-width:1;stroke:blue' />
+ <rect width='30' height='20' x='470' y='230' rx='8' ry='8' 
+  style='fill:white;stroke-width:1;stroke:violet' />
+ <rect width='40' height='30' x='260' y='110' rx='6' ry='6' 
+  style='fill:white;stroke-width:1;stroke:yellow' />
+ <rect width='40' height='30' x='350' y='160' rx='0' ry='0' 
+  style='fill:white;stroke-width:1;stroke:orange' />
+ <rect width='40' height='20' x='300' y='60' rx='2' ry='2' 
+  style='fill:white;stroke-width:1;stroke:green' />
+ <rect width='90' height='20' x='80' y='310' rx='5' ry='5' 
+  style='fill:white;stroke-width:1;stroke:violet' />
+ <rect width='20' height='30' x='420' y='330' rx='1' ry='1' 
+  style='fill:white;stroke-width:1;stroke:violet' />
+ <rect width='10' height='20' x='430' y='200' rx='2' ry='2' 
+  style='fill:white;stroke-width:1;stroke:orange' />
+ <rect width='40' height='30' x='400' y='160' rx='0' ry='0' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='110' height='10' x='450' y='210' rx='2' ry='2' 
+  style='fill:white;stroke-width:1;stroke:violet' />
+ <rect width='40' height='20' x='450' y='330' rx='1' ry='1' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='130' height='10' x='350' y='140' rx='2' ry='2' 
+  style='fill:white;stroke-width:1;stroke:violet' />
+ <rect width='20' height='30' x='230' y='110' rx='0' ry='0' 
+  style='fill:white;stroke-width:1;stroke:red' />
+ <rect width='40' height='20' x='510' y='230' rx='3' ry='3' 
+  style='fill:white;stroke-width:1;stroke:red' />
+ <rect width='120' height='20' x='460' y='280' rx='3' ry='3' 
+  style='fill:white;stroke-width:1;stroke:orange' />
+ <rect width='40' height='10' x='350' y='120' rx='0' ry='0' 
+  style='fill:white;stroke-width:1;stroke:orange' />
+ <rect width='30' height='20' x='50' y='230' rx='1' ry='1' 
+  style='fill:white;stroke-width:1;stroke:indigo' />
+ <rect width='60' height='10' x='100' y='170' rx='9' ry='9' 
+  style='fill:white;stroke-width:1;stroke:orange' />
+ <rect width='130' height='20' x='260' y='30' rx='8' ry='8' 
+  style='fill:white;stroke-width:1;stroke:red' />
+ <rect width='30' height='20' x='450' y='180' rx='3' ry='3' 
+  style='fill:white;stroke-width:1;stroke:red' />
+ <rect width='90' height='10' x='490' y='190' rx='9' ry='9' 
+  style='fill:white;stroke-width:1;stroke:yellow' />
+ <rect width='20' height='30' x='450' y='360' rx='9' ry='9' 
+  style='fill:white;stroke-width:1;stroke:red' />
+ <rect width='30' height='30' x='490' y='150' rx='4' ry='4' 
+  style='fill:white;stroke-width:1;stroke:violet' />
+ <rect width='100' height='20' x='150' y='370' rx='9' ry='9' 
+  style='fill:white;stroke-width:1;stroke:blue' />
+ <rect width='120' height='10' x='260' y='10' rx='7' ry='7' 
+  style='fill:white;stroke-width:1;stroke:yellow' />
+ <rect width='90' height='10' x='480' y='360' rx='1' ry='1' 
+  style='fill:white;stroke-width:1;stroke:violet' />
+
+</svg>
