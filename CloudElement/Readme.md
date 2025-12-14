@@ -6,4 +6,4 @@
 
 ####  A cloud of boxed text
 
-![image](https://github.com/saiftynet/dummyrepo/blob/main/CloudElement/textboxcloudt.svg)
+![image](https://github.com/saiftynet/dummyrepo/blob/main/CloudElement/textboxcloud.svg)
